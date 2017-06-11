@@ -1,0 +1,20 @@
+{
+  "name": "angulardemo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "visaia <18227021@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}
